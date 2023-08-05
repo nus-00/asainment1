@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.banner-card img{
+    max-width: 160%;
+    height: auto;
+}
+
+.bennar-text{
+    .top-right {
+        position: absolute;
+        top: 10px;
+        right: 16px;
+      }
+}
+
+
+
+.bennar-text h4{
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.top-right {
+    position: absolute;
+    top: 200px;
+    right: 200px;
+    font-size: x-large;
+
+  }
+  
+  .div.absolute {
+    position: absolute;
+    bottom: 10px;
+    width: 50%;
+    border: 3px solid #8AC007;
+    
+  }
+  .button {
+    background-color: #4CAF50; /*green*/
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+  
+    font-size: 16px;
+  }
+  
+  
+  .i{
+    padding-top: 0px;
+  }
